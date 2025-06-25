@@ -17,9 +17,8 @@ I'm a problem-solver, tech enthusiast developer who loves to learn new things, c
 - 🗃️ Databases: MySQL, PostgreSQL, MongoDB
 - ⚙️ Tools: Git, GitHub, VS Code, IntelliJ
 
----
-
 ## 🚀 Goals
+
 - Contribute to open source (especially projects created by or for Black technologists)
 - Grow confidently in backend, full-stack, and data engineering
 - Use tech to uplift underrepresented voices and communities
